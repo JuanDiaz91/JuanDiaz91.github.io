@@ -10,7 +10,7 @@ Este es una web personal con portfolio creada con HTML, CSS, BOOTSTRAP y JAVASCR
 
 ## Ver en vivo
 
-[https://juandiaz91.github.io/)](https://juandiaz91.github.io/)
+[https://juandiaz91.github.io/)](https://juandiaz91.github.io/
 
 
 ## Contratación
