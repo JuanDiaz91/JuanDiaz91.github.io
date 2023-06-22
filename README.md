@@ -2,7 +2,7 @@
 
 Este es una web personal con portfolio creada con HTML, CSS, BOOTSTRAP y JAVASCRIPT
 
-## Autor -
+## Autor 
 **Juan Daniel Díaz Mateos**
 
 * [LinkedIn](https://www.linkedin.com/in/juan-ddm/)
@@ -10,7 +10,7 @@ Este es una web personal con portfolio creada con HTML, CSS, BOOTSTRAP y JAVASCR
 
 ## Ver en vivo
 
-[ENLACEGITHUBPAGES](https://juandiaz91.github.io/)
+[https://juandiaz91.github.io/)](https://juandiaz91.github.io/)
 
 
 ## Contratación
